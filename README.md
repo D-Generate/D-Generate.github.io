@@ -1,4 +1,4 @@
-Visit us at https://d-generate.github.io!
+Visit us at https://de-generate.github.io!
 
 Template:
 
